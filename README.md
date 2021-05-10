@@ -96,4 +96,5 @@ This is how the code works at the high level
 13. [Xception for PyTorch](https://rwightman.github.io/pytorch-image-models/models/xception/)
 14. [CIFAR10 tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html) 
 15. [Original CoroNet GitHub Repo](https://github.com/drkhan107/CoroNet)
+16. [Original DarkCovidNet GitHub Repo](https://github.com/muhammedtalo/COVID-19/blob/master/)
 
