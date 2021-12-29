@@ -1,8 +1,8 @@
 # Survey on Convolutional Neural Networks models that Detects COVID-19 using Chest X-Ray Images
 
-## [(Click here) for Whitepaper](docs/Team_1619_CS598_DLH_Project_Final_Report.pdf)
+## [Click here](docs/Team_1619_CS598_DLH_Project_Final_Report.pdf) for Whitepaper
 
-This [paper]((docs/Team_1619_CS598_DLH_Project_Final_Report.pdf))intends to provide an unbiased and neutral review of four existing models that detects COVID-19 from Chest X-Ray images using Convolutional Neural Networks(CNNs). This comparative survey aims to aid the researchers and experts in choosing the most relevant model to detect COVID-19 patients.
+This [paper](docs/Team_1619_CS598_DLH_Project_Final_Report.pdf) intends to provide an unbiased and neutral review of four existing models that detects COVID-19 from Chest X-Ray images using Convolutional Neural Networks(CNNs). This comparative survey aims to aid the researchers and experts in choosing the most relevant model to detect COVID-19 patients.
 
 ### How to run the code
 
